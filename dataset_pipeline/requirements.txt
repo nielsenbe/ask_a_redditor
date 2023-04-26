@@ -1,0 +1,6 @@
+zstandard
+pmaw
+praw
+pandas
+openai
+weaviate-client
